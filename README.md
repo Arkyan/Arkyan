@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arkyan</h1>
 <h3 align="center">I'm a little developper from France </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arkyan&label=Profile%20views&color=0e75b6&style=flat" alt="Arkyan" /> </p>
-- 🔭 I’m currently working on **War Thunder Tips**
-- 🌱 I’m currently learning **Python and HTML**
+- 🔭 I’m currently working on War Thunder Tips
+- 🌱 I’m currently learning Python and HTML
 
 
 
