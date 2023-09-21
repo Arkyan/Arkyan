@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arkyan</h1>
 <h3 align="center">I'm a little developper from France </h3>
 
-- 🔭 I’m currently working on War Thunder Tips
-- 🌱 I’m currently learning Python and HTML
+- 🔭 I’m currently working on **War Thunder Tips**
+- 🌱 I’m currently learning **Python and HTML**
 
 
 
