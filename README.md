@@ -40,12 +40,15 @@
 ###
 
 <div align="center">
-  ![Arkyan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkyan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
+![Arkyan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkyan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ![Arkyan's Stats](https://github-readme-stats.vercel.app/api?username=Arkyan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ![Arkyan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arkyan&theme=midnight-purple&hide_border=true)
 ###
+
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/2pbibrd9e9iumpska4bh9dns5">
