@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi, if you want to know more about me : <br>I'm learning Python and HTML<br>I'm working on War Thunder Tips an HTML project</p>
+<p align="left">Hi, if you want to know more about me : <br>I'm learning Python, HTML and JS</p>
 
 ###
 
