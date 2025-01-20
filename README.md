@@ -1,9 +1,8 @@
 # Arkyan
- # 💫 About Me:
-📖I'm a computer-science student 
+ # 💫 A propos de moi :
+📖I'm a french computer-science student 
 
-
-## 🌐 Socials:
+## 🌐 Mes réseaux sociaux :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arkyan25) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/arkyan_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arkyan_) 
 
 # 💻 Tech Stack:
