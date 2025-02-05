@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -20,9 +20,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 407.3 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 107 Contributions en 2025
+> 📦 407.9 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -33,21 +31,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  226 commits         ██████████░░░░░░░░░░░░░░░   40.72 % 
-🌆 Journée                200 commits         █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌃 Soirée                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-🌙 Nuit                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+🌞 Matin                  229 commits         ██████████░░░░░░░░░░░░░░░   40.67 % 
+🌆 Journée                205 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌃 Soirée                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌙 Nuit                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Mardi                    162 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Mercredi                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Jeudi                    153 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Vendredi                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Samedi                   6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Dimanche                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Lundi                    73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Mardi                    162 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Mercredi                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Jeudi                    153 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Vendredi                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Samedi                   6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Dimanche                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 
 
@@ -57,26 +55,27 @@ Dimanche                 17 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     7 hrs 40 mins       ███████████████░░░░░░░░░░   58.42 % 
-CSS                      2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Java                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-C                        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+HTML                     8 hrs 40 mins       █████████████░░░░░░░░░░░░   50.38 % 
+CSS                      2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+JavaScript               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+C                        1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Java                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔥 Éditeurs de code: 
-VS Code                  11 hrs 18 mins      █████████████████████░░░░   85.98 % 
-CLion                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-IntelliJ IDEA            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+VS Code                  14 hrs 2 mins       ████████████████████░░░░░   81.59 % 
+CLion                    2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+IntelliJ IDEA            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+WebStorm                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🐱‍💻 Projets: 
-arkyan.github.io         10 hrs 57 mins      █████████████████████░░░░   83.32 % 
-IUT                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Portfolio                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-ArkyanBot                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-SAE-1.01                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+arkyan.github.io         13 hrs 49 mins      ████████████████████░░░░░   80.39 % 
+IUT                      3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Portfolio                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+ArkyanBot                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+SAE-1.01                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Système d'exploitation: 
-Windows                  13 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -91,7 +90,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2025 18:44:26 UTC
+ Last Updated on 05/02/2025 18:44:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
