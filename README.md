@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -21,34 +21,32 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 412.9 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 151 Contributions en 2025
+> 📦 415.0 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
-> 📜 10 dépots publiques 
+> 📜 11 dépots publiques 
  > 
-> 🔑 4 dépots privés 
+> 🔑 3 dépots privés 
  > 
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  230 commits         ██████████░░░░░░░░░░░░░░░   39.05 % 
-🌆 Journée                220 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
-🌃 Soirée                 129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-🌙 Nuit                   10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+🌞 Matin                  233 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌆 Journée                228 commits         █████████░░░░░░░░░░░░░░░░   37.07 % 
+🌃 Soirée                 144 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌙 Nuit                   10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Mardi                    184 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Mercredi                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Jeudi                    154 commits         ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Vendredi                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Samedi                   6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Dimanche                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Lundi                    75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Mardi                    184 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Mercredi                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Jeudi                    154 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Vendredi                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Samedi                   6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Dimanche                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 
@@ -90,7 +88,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 07:30:31 UTC
+ Last Updated on 12/02/2025 18:45:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
