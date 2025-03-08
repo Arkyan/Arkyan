@@ -23,8 +23,6 @@
 
 > 📦 436.2 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 257 Contributions en 2025
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 11 dépots publiques 
@@ -58,17 +56,16 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-C                        18 mins             █████████████████████░░░░   84.74 % 
-C/C++                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-CLion                    21 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-IUT                      21 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en Python** 
@@ -84,7 +81,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2025 18:46:10 UTC
+ Last Updated on 08/03/2025 18:43:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
