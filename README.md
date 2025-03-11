@@ -56,16 +56,20 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+Java                     2 hrs 3 mins        ████████████████████████░   95.84 % 
+IDEA_MODULE              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+IntelliJ IDEA            2 hrs 7 mins        █████████████████████████   98.80 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+IUT                      2 hrs 7 mins        █████████████████████████   98.80 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -81,7 +85,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2025 18:46:11 UTC
+ Last Updated on 11/03/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
