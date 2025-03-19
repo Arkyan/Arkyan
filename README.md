@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -21,7 +21,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 507.0 kB Utilisés sur le stockage de GitHub 
+> 📦 511.1 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -32,21 +32,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  241 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
-🌆 Journée                260 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Soirée                 183 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌙 Nuit                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+🌞 Matin                  241 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌆 Journée                262 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌃 Soirée                 184 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+🌙 Nuit                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Mardi                    195 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Mercredi                 144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Jeudi                    159 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Vendredi                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Lundi                    90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Mardi                    195 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Mercredi                 147 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Jeudi                    159 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Vendredi                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Samedi                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Dimanche                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Dimanche                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 
 
@@ -89,7 +89,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2025 18:48:14 UTC
+ Last Updated on 19/03/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
