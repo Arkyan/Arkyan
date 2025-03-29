@@ -23,8 +23,6 @@
 
 > 📦 548.3 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 0 Contributions en 2025
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 12 dépots publiques 
@@ -87,7 +85,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 18:49:30 UTC
+ Last Updated on 29/03/2025 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
