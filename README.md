@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -56,26 +56,26 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Java                     5 hrs 24 mins       █████████████░░░░░░░░░░░░   52.63 % 
-Other                    4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
-C#                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-ISC dhcpd                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Java                     7 hrs 54 mins       █████████████████░░░░░░░░   66.13 % 
+Other                    3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+C#                       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Éditeurs de code: 
-Eclipse                  5 hrs 23 mins       █████████████░░░░░░░░░░░░   52.57 % 
-VS Code                  4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
-Rider                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Eclipse                  8 hrs 17 mins       █████████████████░░░░░░░░   69.40 % 
+VS Code                  3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Rider                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projets: 
-mefaichier               4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
-SAE2.03                  4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.25 % 
-jsp                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-IUT                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-ConsoleApplication1      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+mefaichier               4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+SAE2.03                  2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+R202_TP4                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+testspractice            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+jsp                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 💻 Système d'exploitation: 
-Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -91,7 +91,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2025 18:48:52 UTC
+ Last Updated on 15/04/2025 18:47:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
