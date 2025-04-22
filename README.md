@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -22,6 +22,8 @@
 **🐱 Mes données GitHub** 
 
 > 📦 541.6 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 331 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -56,25 +58,24 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Java                     3 hrs 40 mins       █████████████████░░░░░░░░   68.23 % 
-XML                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Java                     1 hr 9 mins         █████████████░░░░░░░░░░░░   51.74 % 
+XML                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Python                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🔥 Éditeurs de code: 
-Eclipse                  4 hrs 16 mins       ████████████████████░░░░░   79.30 % 
-VS Code                  1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Eclipse                  1 hr 22 mins        ███████████████░░░░░░░░░░   60.81 % 
+VS Code                  52 mins             ██████████░░░░░░░░░░░░░░░   39.19 % 
 
 🐱‍💻 Projets: 
-R202_TP4                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-gameboard                1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-testspractice            1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-latice                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-SAE2.03                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+gameboard                33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+latice                   32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Desktop                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+SAE2.03                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 
 💻 Système d'exploitation: 
-Windows                  5 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -90,7 +91,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 18:49:01 UTC
+ Last Updated on 22/04/2025 18:48:41 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
