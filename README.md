@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -32,21 +32,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  267 commits         █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌆 Journée                285 commits         █████████░░░░░░░░░░░░░░░░   36.87 % 
-🌃 Soirée                 199 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌙 Nuit                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+🌞 Matin                  267 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
+🌆 Journée                286 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌃 Soirée                 205 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌙 Nuit                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Mardi                    198 commits         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Mercredi                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Jeudi                    182 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Vendredi                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Samedi                   10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Dimanche                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Lundi                    125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Mardi                    198 commits         ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Mercredi                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Jeudi                    182 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Vendredi                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Samedi                   10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Dimanche                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 
@@ -56,19 +56,17 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Python                   29 mins             █████████████████████████   99.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   6 mins              █████████████████████████   98.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Éditeurs de code: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Desktop                  17 mins             ██████████████░░░░░░░░░░░   57.99 % 
-Something                6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Unknown Project          5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Something                6 mins              █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -84,7 +82,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2025 18:45:15 UTC
+ Last Updated on 28/04/2025 18:48:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
