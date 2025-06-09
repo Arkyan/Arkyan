@@ -23,13 +23,11 @@
 
 > 📦 603.1 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 399 Contributions en 2025
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
-> 📜 12 dépots publiques 
+> 📜 11 dépots publiques 
  > 
-> 🔑 5 dépots privés 
+> 🔑 6 dépots privés 
  > 
 **Je suis un 🐤 du matin** 
 
@@ -92,7 +90,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2025 18:49:10 UTC
+ Last Updated on 09/06/2025 18:50:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
