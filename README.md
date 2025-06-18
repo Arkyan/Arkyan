@@ -23,7 +23,7 @@
 
 > 📦 603.1 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 0 Contributions en 2025
+> 🏆 413 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -58,17 +58,16 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Java                     2 hrs 2 mins        ████████████████████████░   97.07 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-Eclipse                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-latice                   2 hrs 5 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en Python** 
@@ -84,7 +83,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 18:51:54 UTC
+ Last Updated on 18/06/2025 18:51:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
