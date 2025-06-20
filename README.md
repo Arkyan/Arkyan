@@ -56,16 +56,16 @@ Dimanche                 25 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+HTML                     17 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+Portfolio                17 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -81,7 +81,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2025 18:49:57 UTC
+ Last Updated on 20/06/2025 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
