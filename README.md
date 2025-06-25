@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -21,7 +21,9 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 600.7 kB Utilisés sur le stockage de GitHub 
+> 📦 600.9 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 419 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -32,19 +34,19 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  368 commits         █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌆 Journée                343 commits         ████████░░░░░░░░░░░░░░░░░   33.30 % 
-🌃 Soirée                 288 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌙 Nuit                   31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+🌞 Matin                  368 commits         █████████░░░░░░░░░░░░░░░░   35.69 % 
+🌆 Journée                343 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
+🌃 Soirée                 288 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌙 Nuit                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 📅 **Je suis le plus productif le Lundi** 
 
 ```text
-Lundi                    251 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Mardi                    250 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Mercredi                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Jeudi                    214 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Vendredi                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Lundi                    251 commits         ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Mardi                    250 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Mercredi                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Jeudi                    214 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Vendredi                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 Samedi                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 Dimanche                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
@@ -56,16 +58,20 @@ Dimanche                 26 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     17 mins             █████████████████████████   100.00 % 
+HTML                     17 mins             ████████████████████░░░░░   78.72 % 
+PHP                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Éditeurs de code: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             ████████████████████████░   94.88 % 
+Chrome                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🐱‍💻 Projets: 
-Portfolio                17 mins             █████████████████████████   100.00 % 
+Portfolio                18 mins             █████████████████████░░░░   83.84 % 
+SpotRail                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 
 💻 Système d'exploitation: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -81,7 +87,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 18:52:09 UTC
+ Last Updated on 25/06/2025 18:52:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
