@@ -56,16 +56,21 @@ Dimanche                 27 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+HTML                     11 mins             █████████████░░░░░░░░░░░░   53.37 % 
+JavaScript               7 mins              ████████░░░░░░░░░░░░░░░░░   32.80 % 
+CSS                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+jsp                      18 mins             ██████████████████████░░░   86.13 % 
+jinx-overlay             3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -81,7 +86,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2025 18:49:47 UTC
+ Last Updated on 14/07/2025 18:55:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
