@@ -15,15 +15,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-3.9%20million%20Lignes%20de%20code-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 602.8 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 0 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -88,7 +86,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2025 18:55:13 UTC
+ Last Updated on 17/07/2025 18:55:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
