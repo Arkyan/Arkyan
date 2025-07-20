@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -56,21 +56,21 @@ Dimanche                 27 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     11 mins             █████████████░░░░░░░░░░░░   53.37 % 
-JavaScript               7 mins              ████████░░░░░░░░░░░░░░░░░   32.80 % 
-CSS                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     46 mins             █████████░░░░░░░░░░░░░░░░   35.36 % 
+JavaScript               37 mins             ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+HTML                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+CSS                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Éditeurs de code: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-jsp                      18 mins             ██████████████████████░░░   86.13 % 
-jinx-overlay             3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+jsp                      2 hrs 8 mins        ████████████████████████░   97.71 % 
+jinx-overlay             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Système d'exploitation: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -86,7 +86,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2025 18:50:48 UTC
+ Last Updated on 20/07/2025 18:51:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
