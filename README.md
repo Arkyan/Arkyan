@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -21,7 +21,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 639.8 kB Utilisés sur le stockage de GitHub 
+> 📦 639.9 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -32,21 +32,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  368 commits         █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌆 Journée                343 commits         ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌃 Soirée                 295 commits         ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-🌙 Nuit                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+🌞 Matin                  368 commits         █████████░░░░░░░░░░░░░░░░   35.25 % 
+🌆 Journée                345 commits         ████████░░░░░░░░░░░░░░░░░   33.05 % 
+🌃 Soirée                 297 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+🌙 Nuit                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 📅 **Je suis le plus productif le Lundi** 
 
 ```text
-Lundi                    251 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Mardi                    250 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Mercredi                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Jeudi                    217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Vendredi                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Samedi                   15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Dimanche                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Lundi                    251 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Mardi                    250 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Mercredi                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Jeudi                    217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Vendredi                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Samedi                   19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Dimanche                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 
@@ -81,7 +81,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2025 18:53:33 UTC
+ Last Updated on 09/08/2025 18:51:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
