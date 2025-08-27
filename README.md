@@ -56,20 +56,16 @@ Dimanche                 31 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      2 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.16 % 
-JavaScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-SQL                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-Raildle                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en Python** 
@@ -85,7 +81,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 18:49:40 UTC
+ Last Updated on 27/08/2025 18:47:53 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
