@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -21,7 +21,9 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 641.1 kB Utilisés sur le stockage de GitHub 
+> 📦 641.2 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 465 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -32,21 +34,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  368 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
-🌆 Journée                352 commits         ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌃 Soirée                 307 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌙 Nuit                   40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+🌞 Matin                  368 commits         █████████░░░░░░░░░░░░░░░░   34.33 % 
+🌆 Journée                354 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌃 Soirée                 309 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+🌙 Nuit                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 📅 **Je suis le plus productif le Lundi** 
 
 ```text
-Lundi                    259 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Mardi                    257 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Mercredi                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Jeudi                    217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Vendredi                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Samedi                   20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Dimanche                 31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Lundi                    259 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Mardi                    257 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Mercredi                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Jeudi                    217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Vendredi                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Samedi                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Dimanche                 31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
 
@@ -56,37 +58,39 @@ Dimanche                 31 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     55 mins             ████████████████░░░░░░░░░   62.19 % 
-JavaScript               21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+HTML                     1 hr 9 mins         ███████████████░░░░░░░░░░   60.45 % 
+JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+SSH Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 28 mins        █████████████████████████   99.28 % 
-Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+VS Code                  1 hr 54 mins        █████████████████████████   99.45 % 
+Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projets: 
-arkyan.github.io         1 hr 28 mins        █████████████████████████   100.00 % 
+arkyan.github.io         1 hr 28 mins        ███████████████████░░░░░░   77.38 % 
+HMRTL                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Unknown Project          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 
 💻 Système d'exploitation: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
 
 ```text
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 29/08/2025 18:47:02 UTC
+ Last Updated on 30/08/2025 18:45:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
