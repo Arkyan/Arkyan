@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 📦 641.2 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 0 Contributions en 2025
+> 🏆 465 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -58,24 +58,24 @@ Dimanche                 31 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     5 hrs 25 mins       ████████████████░░░░░░░░░   63.44 % 
-CSS                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-SSH Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+HTML                     6 hrs 38 mins       █████████████████░░░░░░░░   66.85 % 
+CSS                      1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+SSH Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Éditeurs de code: 
-VS Code                  8 hrs 32 mins       █████████████████████████   99.88 % 
-Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  9 hrs 55 mins       █████████████████████████   99.89 % 
+Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projets: 
-Wiki                     5 hrs 37 mins       ████████████████░░░░░░░░░   65.64 % 
-arkyan.github.io         1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-HMRTL                    1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Wiki                     5 hrs 57 mins       ███████████████░░░░░░░░░░   60.02 % 
+HMRTL                    2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+arkyan.github.io         1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Système d'exploitation: 
-Windows                  8 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -91,7 +91,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 18:46:12 UTC
+ Last Updated on 01/09/2025 18:47:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
