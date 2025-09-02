@@ -1,7 +1,7 @@
 # Arkyan
  # 💫 A propos de moi :
-📖 Je suis en première année de B.U.T Informatique  
-🎂 18 ans  
+📖 Je suis en deuxième année de B.U.T Informatique  
+🎂 19 ans  
 🎮 Fan de jeux vidéos depuis mes plus jeunes années  
 🤘🏻 Métalleux dans l'âme  
 📕 Vous pouvez retrouvez mon portfolio [ici](https://arkyanportfolio.netlify.app/)
