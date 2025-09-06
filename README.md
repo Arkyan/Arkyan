@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -23,8 +23,6 @@
 **🐱 Mes données GitHub** 
 
 > 📦 641.5 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 485 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -59,25 +57,25 @@ Dimanche                 31 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     7 hrs 54 mins       ████████████████░░░░░░░░░   62.33 % 
-CSS                      2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-PHP                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+HTML                     7 hrs 40 mins       ████████████████░░░░░░░░░   62.43 % 
+CSS                      2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+PHP                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Éditeurs de code: 
-VS Code                  12 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 17 mins      █████████████████████████   100.00 % 
 Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projets: 
-Wiki                     6 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.64 % 
-HMRTL                    3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-arkyan.github.io         2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Downloads                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Wiki                     6 hrs 17 mins       █████████████░░░░░░░░░░░░   51.26 % 
+HMRTL                    2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+arkyan.github.io         2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Downloads                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Economie                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Système d'exploitation: 
-Windows                  12 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -93,7 +91,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 18:46:29 UTC
+ Last Updated on 06/09/2025 18:44:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
