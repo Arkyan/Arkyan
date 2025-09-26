@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-8-blue)
 
@@ -59,26 +59,26 @@ Dimanche                 33 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-SQL                      2 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.65 % 
-Java                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-PHP                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+SQL                      2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
+Java                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+PHP                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Éditeurs de code: 
-VS Code                  3 hrs 16 mins       ████████████████░░░░░░░░░   65.32 % 
-Eclipse                  1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-CLion                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+VS Code                  4 hrs 23 mins       ███████████████████░░░░░░   74.96 % 
+Eclipse                  1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
 
 🐱‍💻 Projets: 
-Unknown Project          1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   34.73 % 
-tirepressuremonitoringsys1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Bureau                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-lacosina                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-IUT                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Unknown Project          1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+tirepressuremonitoringsys1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Bureau                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+arkyan.github.io         39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+lacosina                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 💻 Système d'exploitation: 
-Windows                  5 hrs               █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       ███████████████████████░░   92.02 % 
+Linux                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 
 **Je code principalement en Python** 
@@ -94,7 +94,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2025 18:49:38 UTC
+ Last Updated on 26/09/2025 18:47:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
