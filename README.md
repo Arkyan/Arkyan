@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-8-blue)
 
@@ -24,7 +24,7 @@
 
 > 📦 648.3 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 502 Contributions en 2025
+> 🏆 504 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -32,20 +32,69 @@
  > 
 > 🔑 5 dépots privés 
  > 
+**Je suis un 🐤 du matin** 
+
+```text
+🌞 Matin                  383 commits         █████████░░░░░░░░░░░░░░░░   34.47 % 
+🌆 Journée                375 commits         ████████░░░░░░░░░░░░░░░░░   33.75 % 
+🌃 Soirée                 312 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+🌙 Nuit                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+```
+📅 **Je suis le plus productif le Mardi** 
+
+```text
+Lundi                    263 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Mardi                    266 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Mercredi                 187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Jeudi                    219 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Vendredi                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Samedi                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Dimanche                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+```
+
+
+📊 **Cette semaine, je passe mon temps sur** 
+
+```text
+🕑︎ Fuseau horaire: Europe/Paris
+
+💬 Langages: 
+Java                     1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+PHP                      55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+SQL                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+
+🔥 Éditeurs de code: 
+VS Code                  3 hrs 25 mins       █████████████████░░░░░░░░   69.96 % 
+Eclipse                  1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+
+🐱‍💻 Projets: 
+tirepressuremonitoringsys1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+lacosina                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+arkyan.github.io         52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Bureau                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+resources                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+
+💻 Système d'exploitation: 
+Windows                  4 hrs 25 mins       ███████████████████████░░   90.43 % 
+Linux                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+```
+
 **Je code principalement en Python** 
 
 ```text
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 27/09/2025 18:44:39 UTC
+ Last Updated on 28/09/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
