@@ -59,19 +59,16 @@ Dimanche                 46 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-CSV                      29 mins             ██████████████████████░░░   86.61 % 
-PHP                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-Unknown Project          29 mins             ██████████████████████░░░   86.61 % 
-RaildleV2                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  29 mins             ██████████████████████░░░   86.61 % 
-Linux                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en Python** 
@@ -87,7 +84,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:51:07 UTC
+ Last Updated on 01/11/2025 18:45:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
