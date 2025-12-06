@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue)
 
@@ -59,20 +59,22 @@ Dimanche                 61 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-TypeScript               6 hrs 43 mins       ████████████████████░░░░░   78.25 % 
-Prisma                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-TSConfig                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TypeScript               6 hrs 43 mins       ███████████████████░░░░░░   77.91 % 
+Prisma                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TSConfig                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Éditeurs de code: 
-VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-RaildleBot               8 hrs 35 mins       █████████████████████████   100.00 % 
+RaildleBot               8 hrs 35 mins       █████████████████████████   99.57 % 
+lacosina2                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Système d'exploitation: 
-Linux                    8 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 35 mins       █████████████████████████   99.57 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 **Je code principalement en Python** 
@@ -88,7 +90,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 18:51:15 UTC
+ Last Updated on 06/12/2025 18:48:49 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
