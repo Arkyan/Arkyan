@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue)
 
@@ -59,24 +59,25 @@ Dimanche                 89 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-TypeScript               2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.53 % 
-Bash                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-SSH Config               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Blade Template           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+PHP                      4 hrs 44 mins       ██████████████░░░░░░░░░░░   55.10 % 
+Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Blade Template           50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+CSS                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+SSH Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Éditeurs de code: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-RaildleBot               2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.61 % 
-RaildleV2                1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   36.68 % 
-Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-lacosina2                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+RaildleV2                4 hrs 28 mins       █████████████░░░░░░░░░░░░   51.93 % 
+social                   3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.44 % 
+social2                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+RaildleBot               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Système d'exploitation: 
-Linux                    4 hrs 45 mins       ████████████████████████░   97.78 % 
-Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Linux                    4 hrs 52 mins       ██████████████░░░░░░░░░░░   56.64 % 
+Windows                  3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.36 % 
 ```
 
 **Je code principalement en Python** 
@@ -92,7 +93,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2025 18:54:33 UTC
+ Last Updated on 11/12/2025 18:56:17 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
