@@ -14,9 +14,9 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-4.2%20million%20Lignes%20de%20code-blue)
 
@@ -59,25 +59,25 @@ Dimanche                 68 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      6 hrs 1 min         █████████████░░░░░░░░░░░░   50.53 % 
-Bash                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Blade Template           1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-CSS                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+PHP                      6 hrs               ██████████████░░░░░░░░░░░   57.75 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Blade Template           49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Éditeurs de code: 
-VS Code                  11 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-RaildleV2                5 hrs 29 mins       ████████████░░░░░░░░░░░░░   46.09 % 
-social                   5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
-social2                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-controle                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+social                   5 hrs 17 mins       █████████████░░░░░░░░░░░░   50.93 % 
+RaildleV2                3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
+social2                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+ElectrumOverlay - Copie  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Système d'exploitation: 
-Windows                  6 hrs 1 min         █████████████░░░░░░░░░░░░   50.51 % 
-Linux                    5 hrs 54 mins       ████████████░░░░░░░░░░░░░   49.49 % 
+Windows                  6 hrs 19 mins       ███████████████░░░░░░░░░░   60.79 % 
+Linux                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
 ```
 
 **Je code principalement en Python** 
@@ -93,7 +93,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 18:49:07 UTC
+ Last Updated on 14/12/2025 18:50:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
