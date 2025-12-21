@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -59,23 +59,21 @@ Dimanche                 75 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               4 hrs 39 mins       ███████████████░░░░░░░░░░   58.21 % 
-JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-PHP                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+JavaScript               4 hrs 22 mins       ██████████████░░░░░░░░░░░   56.77 % 
+JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+PHP                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Éditeurs de code: 
-VS Code                  8 hrs               █████████████████████████   100.00 % 
+VS Code                  7 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-LMUTracker               7 hrs               ██████████████████████░░░   87.60 % 
-lacosina3                41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-ElectrumOverlay - Copie  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-ElectrumOverlay          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+LMUTracker               7 hrs               ███████████████████████░░   90.95 % 
+lacosina3                41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 💻 Système d'exploitation: 
-Windows                  8 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -91,7 +89,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2025 18:49:09 UTC
+ Last Updated on 21/12/2025 18:50:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
