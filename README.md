@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -24,7 +24,7 @@
 
 > 📦 654.6 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 898 Contributions en 2025
+> 🏆 900 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -35,21 +35,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  567 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-🌆 Journée                718 commits         █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌃 Soirée                 559 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-🌙 Nuit                   79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+🌞 Matin                  538 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+🌆 Journée                671 commits         █████████░░░░░░░░░░░░░░░░   37.07 % 
+🌃 Soirée                 528 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Nuit                   73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    390 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Mardi                    395 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Mercredi                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Jeudi                    309 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Vendredi                 251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Samedi                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Dimanche                 92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Lundi                    369 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Mardi                    390 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Mercredi                 347 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Jeudi                    298 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Vendredi                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Samedi                   104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Dimanche                 81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 
@@ -59,20 +59,22 @@ Dimanche                 92 commits          █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               34 mins             ██████████░░░░░░░░░░░░░░░   39.04 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-XML                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-SSH Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Lua                      1 hr 57 mins        ██████████████░░░░░░░░░░░   56.94 % 
+JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+XML                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-LMUTracker               1 hr 28 mins        █████████████████████████   100.00 % 
+resources                1 hr 58 mins        ██████████████░░░░░░░░░░░   57.16 % 
+LMUTracker               1 hr 28 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
 
 💻 Système d'exploitation: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        ██████████████░░░░░░░░░░░   57.16 % 
+Windows                  1 hr 28 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
 ```
 
 **Je code principalement en Python** 
@@ -88,7 +90,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 18:51:33 UTC
+ Last Updated on 28/12/2025 18:52:29 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
