@@ -14,17 +14,17 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-4.28%20million%20Lignes%20de%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-4.30%20million%20Lignes%20de%20code-blue?style=flat)
 
 **🐱 Mes données GitHub** 
 
-> 📦 654.7 kB Utilisés sur le stockage de GitHub 
+> 📦 654.8 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 66 Contributions en 2026
+> 🏆 91 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -35,21 +35,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  657 commits         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌆 Journée                803 commits         █████████░░░░░░░░░░░░░░░░   36.09 % 
-🌃 Soirée                 654 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌙 Nuit                   111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+🌞 Matin                  681 commits         ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌆 Journée                845 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
+🌃 Soirée                 670 commits         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌙 Nuit                   115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Mardi                    492 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Mercredi                 437 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Jeudi                    368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Vendredi                 277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Samedi                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Dimanche                 103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Lundi                    400 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Mardi                    531 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Mercredi                 457 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Jeudi                    379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Vendredi                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Samedi                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Dimanche                 105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 
 
@@ -59,20 +59,21 @@ Dimanche                 103 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Blade Template           1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-Bash                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-JavaScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-PHP                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+PHP                      46 mins             ██████████░░░░░░░░░░░░░░░   38.40 % 
+Blade Template           32 mins             ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Bash                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Éditeurs de code: 
-VS Code                  3 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-RaildleV2                3 hrs 38 mins       █████████████████████████   100.00 % 
+RaildleV2                1 hr 50 mins        ███████████████████████░░   90.36 % 
+RaildleBot               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 💻 Système d'exploitation: 
-Linux                    3 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -80,15 +81,15 @@ Linux                    3 hrs 38 mins       ███████████�
 ```text
 JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 12/01/2026 18:58:01 UTC
+ Last Updated on 14/01/2026 18:58:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
