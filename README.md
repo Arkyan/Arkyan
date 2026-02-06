@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue?style=flat)
 
@@ -59,26 +59,26 @@ Dimanche                 130 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-TypeScript               3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-JavaScript               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Java                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript               2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Java                     2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+JavaScript               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+JSON                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Éditeurs de code: 
-VS Code                  8 hrs 37 mins       ████████████████████░░░░░   81.83 % 
-IntelliJ IDEA            1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+VS Code                  7 hrs 26 mins       █████████████████░░░░░░░░   67.20 % 
+IntelliJ IDEA            3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
 
 🐱‍💻 Projets: 
-RaccoonsBot              5 hrs 31 mins       █████████████░░░░░░░░░░░░   52.49 % 
-R4.10-netflouix          2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-tp1                      1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-resources                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-IUT                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+RaccoonsBot              4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
+R4.10-netflouix          2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+tp1                      2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+tp2                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+resources                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Système d'exploitation: 
-Linux                    5 hrs 51 mins       ██████████████░░░░░░░░░░░   55.54 % 
-Windows                  4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.46 % 
+Windows                  6 hrs 24 mins       ██████████████░░░░░░░░░░░   57.81 % 
+Linux                    4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.19 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -94,7 +94,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 19:23:26 UTC
+ Last Updated on 06/02/2026 19:23:07 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
