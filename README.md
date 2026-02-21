@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -59,24 +59,20 @@ Dimanche                 175 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-Lua                      1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Blade Template           53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Lua                      1 hr 7 mins         █████████████████████░░░░   83.35 % 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Éditeurs de code: 
-VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-R4.10-netflouix          2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.05 % 
-resources                1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-citesco                  1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Ma version               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+resources                1 hr 12 mins        ██████████████████████░░░   89.36 % 
+Ma version               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 
 💻 Système d'exploitation: 
-Linux                    2 hrs 47 mins       ██████████████░░░░░░░░░░░   54.18 % 
-Windows                  2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.82 % 
+Linux                    1 hr 12 mins        ██████████████████████░░░   89.36 % 
+Windows                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -92,7 +88,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 19:14:19 UTC
+ Last Updated on 21/02/2026 19:02:24 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
