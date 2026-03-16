@@ -14,17 +14,17 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.11%20million%20Lignes%20de%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.29%20million%20Lignes%20de%20code-blue?style=flat)
 
 **🐱 Mes données GitHub** 
 
 > 📦 673.7 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 331 Contributions en 2026
+> 🏆 333 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -35,21 +35,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  1180 commits        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌆 Journée                1278 commits        █████████░░░░░░░░░░░░░░░░   35.83 % 
-🌃 Soirée                 852 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-🌙 Nuit                   257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+🌞 Matin                  1391 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌆 Journée                1426 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
+🌃 Soirée                 939 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+🌙 Nuit                   268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    642 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Mardi                    869 commits         ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Mercredi                 693 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Jeudi                    519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Vendredi                 481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Samedi                   200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Dimanche                 163 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Lundi                    717 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Mardi                    970 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Mercredi                 818 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Jeudi                    563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Vendredi                 532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Samedi                   239 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Dimanche                 185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 
@@ -95,7 +95,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2026 19:06:01 UTC
+ Last Updated on 16/03/2026 19:35:53 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
