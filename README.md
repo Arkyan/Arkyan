@@ -14,11 +14,11 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.18%20million%20Lignes%20de%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.19%20million%20Lignes%20de%20code-blue?style=flat)
 
 **🐱 Mes données GitHub** 
 
@@ -35,21 +35,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  1344 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌆 Journée                1448 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
-🌃 Soirée                 1002 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌙 Nuit                   292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+🌞 Matin                  1352 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌆 Journée                1470 commits        █████████░░░░░░░░░░░░░░░░   35.61 % 
+🌃 Soirée                 1014 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+🌙 Nuit                   292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    673 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Mardi                    1060 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Mercredi                 820 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Jeudi                    556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Vendredi                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Samedi                   243 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Dimanche                 190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Lundi                    675 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Mardi                    1068 commits        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Mercredi                 820 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Jeudi                    560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Vendredi                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Samedi                   243 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Dimanche                 196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
 
@@ -59,25 +59,23 @@ Dimanche                 190 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Lua                      3 hrs 38 mins       █████████████░░░░░░░░░░░░   51.65 % 
-Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-JavaScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Vue.js                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Lua                      3 hrs 48 mins       ██████████████░░░░░░░░░░░   54.45 % 
+Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+JavaScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Vue.js                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Éditeurs de code: 
-VS Code                  7 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-resources                5 hrs 25 mins       ███████████████████░░░░░░   76.74 % 
-5B_starter               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-RaildleV2                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-The-Knights-Quest        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+resources                5 hrs 35 mins       ████████████████████░░░░░   79.78 % 
+5B_starter               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Système d'exploitation: 
-Linux                    5 hrs 36 mins       ████████████████████░░░░░   79.54 % 
-Windows                  1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Linux                    5 hrs 35 mins       ████████████████████░░░░░   79.78 % 
+Windows                  1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -93,7 +91,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 19:39:48 UTC
+ Last Updated on 02/04/2026 19:31:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
