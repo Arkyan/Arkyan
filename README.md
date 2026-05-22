@@ -14,8 +14,6 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2045%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.83%20million%20Lignes%20de%20code-blue?style=flat)
@@ -59,21 +57,22 @@ Dimanche                 253 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Python                   2 hrs 6 mins        ███████████████░░░░░░░░░░   61.56 % 
-JSON                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python                   2 hrs 25 mins       ████████████████░░░░░░░░░   64.78 % 
+JSON                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 48 mins        █████████████░░░░░░░░░░░░   52.73 % 
-Claude Code              1 hr 36 mins        ████████████░░░░░░░░░░░░░   47.27 % 
+VS Code                  1 hr 53 mins        █████████████░░░░░░░░░░░░   50.44 % 
+Claude Code              1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.56 % 
 
 🐱‍💻 Projets: 
-Bot Trainstation         3 hrs 24 mins       █████████████████████████   100.00 % 
+Bot Trainstation         3 hrs 41 mins       █████████████████████████   98.75 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Système d'exploitation: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -89,7 +88,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 20:21:54 UTC
+ Last Updated on 22/05/2026 20:21:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
