@@ -14,17 +14,17 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.83%20million%20Lignes%20de%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.75%20million%20Lignes%20de%20code-blue?style=flat)
 
 **🐱 Mes données GitHub** 
 
-> 📦 677.7 kB Utilisés sur le stockage de GitHub 
+> 📦 677.9 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 450 Contributions en 2026
+> 🏆 468 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -35,21 +35,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  2213 commits        ██████████░░░░░░░░░░░░░░░   39.22 % 
-🌆 Journée                1927 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌃 Soirée                 1248 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-🌙 Nuit                   254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌞 Matin                  2131 commits        ██████████░░░░░░░░░░░░░░░   38.42 % 
+🌆 Journée                1951 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
+🌃 Soirée                 1238 commits        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌙 Nuit                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
-📅 **Je suis le plus productif le Mardi** 
+📅 **Je suis le plus productif le Mercredi** 
 
 ```text
-Lundi                    922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Mardi                    1335 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Mercredi                 1276 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Jeudi                    715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Vendredi                 789 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Samedi                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Dimanche                 253 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Lundi                    900 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Mardi                    1291 commits        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Mercredi                 1296 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Jeudi                    687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Vendredi                 775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Samedi                   346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Dimanche                 251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 
 
@@ -59,22 +59,24 @@ Dimanche                 253 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Python                   2 hrs 33 mins       ████████████████░░░░░░░░░   63.46 % 
-JSON                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
+JSON                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+PHP                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Blade Template           23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Éditeurs de code: 
-VS Code                  2 hrs 6 mins        █████████████░░░░░░░░░░░░   52.43 % 
-Claude Code              1 hr 54 mins        ████████████░░░░░░░░░░░░░   47.57 % 
+VS Code                  3 hrs 32 mins       ███████████████░░░░░░░░░░   59.11 % 
+Claude Code              2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
 
 🐱‍💻 Projets: 
-Bot Trainstation         3 hrs 58 mins       █████████████████████████   98.84 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Bot Trainstation         3 hrs 58 mins       █████████████████░░░░░░░░   66.41 % 
+citesco                  1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.25 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Système d'exploitation: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  4 hrs 3 mins        █████████████████░░░░░░░░   67.75 % 
+Linux                    1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.25 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -90,7 +92,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 20:32:20 UTC
+ Last Updated on 27/05/2026 20:35:10 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
