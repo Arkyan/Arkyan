@@ -59,21 +59,16 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Blade Template           36 mins             ███████████████░░░░░░░░░░   59.50 % 
-PHP                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-JavaScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-Claude Code              43 mins             ██████████████████░░░░░░░   70.87 % 
-VS Code                  17 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-citesco                  1 hr                █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en JavaScript** 
@@ -89,7 +84,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 19:54:52 UTC
+ Last Updated on 28/06/2026 19:56:12 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
