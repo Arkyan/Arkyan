@@ -14,7 +14,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -24,7 +24,7 @@
 
 > 📦 678.0 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 525 Contributions en 2026
+> 🏆 529 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -35,20 +35,20 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  2172 commits        ██████████░░░░░░░░░░░░░░░   38.61 % 
-🌆 Journée                1954 commits        █████████░░░░░░░░░░░░░░░░   34.73 % 
-🌃 Soirée                 1307 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+🌞 Matin                  2172 commits        ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌆 Journée                1958 commits        █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌃 Soirée                 1307 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 🌙 Nuit                   193 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    916 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Mardi                    1327 commits        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Mercredi                 1253 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Jeudi                    688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Vendredi                 808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Samedi                   369 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Lundi                    916 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Mardi                    1327 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Mercredi                 1253 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Jeudi                    688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Vendredi                 808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Samedi                   373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 Dimanche                 265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 
@@ -90,7 +90,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2026 20:00:27 UTC
+ Last Updated on 11/07/2026 19:43:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
