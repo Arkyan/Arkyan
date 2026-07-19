@@ -14,9 +14,9 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.98%20million%20Lignes%20de%20code-blue?style=flat)
 
@@ -59,26 +59,25 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
-JSON                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Blade Template           1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JavaScript               4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
+JSON                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Markdown                 1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Blade Template           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Éditeurs de code: 
-Claude Code              8 hrs 54 mins       █████████████████████░░░░   84.19 % 
-VS Code                  1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Claude Code              10 hrs 37 mins      ██████████████████████░░░   87.02 % 
+VS Code                  1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 
 🐱‍💻 Projets: 
-Ma version               5 hrs 44 mins       ██████████████░░░░░░░░░░░   54.20 % 
-citesco                  2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Bot Trainstation         1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-ElectrumOverlay          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Ma version               8 hrs 11 mins       █████████████████░░░░░░░░   67.10 % 
+citesco                  2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Bot Trainstation         1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+ElectrumOverlay          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Système d'exploitation: 
-Windows                  7 hrs 35 mins       ██████████████████░░░░░░░   71.77 % 
-Linux                    2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Windows                  9 hrs 53 mins       ████████████████████░░░░░   81.05 % 
+Linux                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -94,7 +93,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026 19:44:40 UTC
+ Last Updated on 19/07/2026 19:43:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
