@@ -59,21 +59,21 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               11 hrs 12 mins      ██████████████████░░░░░░░   73.17 % 
-CSS                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+JavaScript               10 hrs 4 mins       ███████████████████░░░░░░   77.30 % 
+CSS                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Éditeurs de code: 
-Claude Code              13 hrs 14 mins      ██████████████████████░░░   86.44 % 
-VS Code                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Claude Code              11 hrs 11 mins      █████████████████████░░░░   85.80 % 
+VS Code                  1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 
 🐱‍💻 Projets: 
-Ma version               15 hrs 19 mins      █████████████████████████   100.00 % 
+Ma version               13 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  15 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -89,7 +89,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:45:44 UTC
+ Last Updated on 26/07/2026 19:46:49 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
