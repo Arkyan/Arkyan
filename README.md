@@ -14,7 +14,9 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue?style=flat)
 
@@ -59,21 +61,45 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               10 hrs 4 mins       ███████████████████░░░░░░   77.30 % 
-CSS                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript               6 hrs 51 mins       ████████████████████░░░░░   78.03 % 
+CSS                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Éditeurs de code: 
-Claude Code              11 hrs 11 mins      █████████████████████░░░░   85.80 % 
-VS Code                  1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Claude Code              7 hrs               ████████████████████░░░░░   79.75 % 
+VS Code                  1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 
 🐱‍💻 Projets: 
-Ma version               13 hrs 2 mins       █████████████████████████   100.00 % 
+Ma version               8 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 39 mins (98.52%)
+
+✍️ 7,353 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 402,047,708 Input Tokens, 1,067,899 Output Tokens
+
+💵 $1749.29 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 54 AI Prompts
+
+Sonnet                   6,322 lines         ██████████████████░░░░░░░   71.43 % 
+Fable                    2,042 lines         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Opus                     487 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 201 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Je code principalement en JavaScript** 
@@ -89,7 +115,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:46:49 UTC
+ Last Updated on 27/07/2026 20:07:31 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
