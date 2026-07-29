@@ -61,44 +61,44 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               5 hrs 26 mins       ███████████████████░░░░░░   77.50 % 
-CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               4 hrs 15 mins       ████████████████████░░░░░   80.16 % 
+CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Éditeurs de code: 
-Claude Code              5 hrs 14 mins       ███████████████████░░░░░░   74.67 % 
-VS Code                  1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Claude Code              4 hrs 58 mins       ███████████████████████░░   93.84 % 
+VS Code                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🐱‍💻 Projets: 
-Ma version               7 hrs 1 min         █████████████████████████   100.00 % 
+Ma version               5 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 53 mins (98.15%)
+⏱ AI Coding Time: 5 hrs 17 mins (99.72%)
 
-✍️ 6,301 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,603 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 317,963,412 Input Tokens, 856,506 Output Tokens
+🔤 255,556,408 Input Tokens, 554,060 Output Tokens
 
-💵 $1553.11 Estimated AI Cost This Week
+💵 $1418.86 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 49 AI Prompts
+🧠 5 AI Sessions, 37 AI Prompts
 
-Sonnet                   5,427 lines         █████████████████░░░░░░░░   68.21 % 
-Fable                    2,042 lines         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Opus                     487 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Sonnet                   4,842 lines         █████████████████████░░░░   83.07 % 
+Fable                    500 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Opus                     487 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 206 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -115,7 +115,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:04:47 UTC
+ Last Updated on 29/07/2026 19:54:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
