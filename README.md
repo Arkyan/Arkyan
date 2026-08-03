@@ -76,28 +76,6 @@ citesco                  15 mins             ███████████�
 Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 mins (99.64%)
-
-✍️ 270 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,076,440 Input Tokens, 28,370 Output Tokens
-
-💵 $9.54 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Sonnet                   271 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 660 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **Je code principalement en JavaScript** 
 
 ```text
