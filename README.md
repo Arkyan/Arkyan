@@ -61,43 +61,43 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               52 mins             ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-Markdown                 36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-TypeScript               32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Vue                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+JavaScript               47 mins             ████████░░░░░░░░░░░░░░░░░   30.02 % 
+TypeScript               32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Vue                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Éditeurs de code: 
-Claude Code              2 hrs 55 mins       ████████████████████████░   97.70 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Claude Code              2 hrs 35 mins       █████████████████████████   99.26 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projets: 
-LMUTracker               2 hrs 59 mins       █████████████████████████   100.00 % 
+LMUTracker               2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 36 mins (100.0%)
 
-✍️ 11,691 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,182 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,962,589 Input Tokens, 403,142 Output Tokens
+🔤 2,847,967 Input Tokens, 376,351 Output Tokens
 
-💵 $118.24 Estimated AI Cost This Week
+💵 $115.11 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-Opus                     6,934 lines         ███████████████░░░░░░░░░░   58.91 % 
-Fable                    4,837 lines         ██████████░░░░░░░░░░░░░░░   41.09 % 
+Opus                     6,579 lines         ██████████████░░░░░░░░░░░   57.63 % 
+Fable                    4,837 lines         ███████████░░░░░░░░░░░░░░   42.37 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 45 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -114,7 +114,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 19:31:53 UTC
+ Last Updated on 15/08/2026 18:59:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
