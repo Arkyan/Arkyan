@@ -61,41 +61,39 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-CSS                      11 mins             ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-TypeScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Other                    7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+JavaScript               11 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
+CSS                      8 mins              ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+Other                    7 mins              ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 
 🔥 Éditeurs de code: 
-Claude Code              33 mins             ████████████████████░░░░░   79.62 % 
-VS Code                  8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Claude Code              19 mins             █████████████████░░░░░░░░   69.02 % 
+VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
 
 🐱‍💻 Projets: 
-Ma version               27 mins             ████████████████░░░░░░░░░   65.79 % 
-Tarkov                   14 mins             █████████░░░░░░░░░░░░░░░░   34.21 % 
+Ma version               27 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (80.11%)
+⏱ AI Coding Time: 19 mins (69.77%)
 
-✍️ 159 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 124,740 Input Tokens, 63,037 Output Tokens
+🔤 86,601 Input Tokens, 38,177 Output Tokens
 
-💵 $5.55 Estimated AI Cost This Week
+💵 $1.40 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Sonnet                   336 lines           █████████████████████████   100.00 % 
+Sonnet                   7 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
+📝 Concise Prompter — average 181 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -113,7 +111,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:59:37 UTC
+ Last Updated on 24/08/2026 19:12:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
