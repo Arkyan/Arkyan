@@ -61,41 +61,22 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               11 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
-CSS                      8 mins              ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Other                    7 mins              ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-Claude Code              19 mins             █████████████████░░░░░░░░   69.02 % 
-VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-Ma version               27 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (69.77%)
-
-✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 86,601 Input Tokens, 38,177 Output Tokens
-
-💵 $1.40 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Sonnet                   7 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Je code principalement en JavaScript** 
@@ -111,7 +92,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 01:52:33 UTC
+ Last Updated on 29/08/2026 21:06:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
