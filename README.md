@@ -14,19 +14,19 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.98%20million%20Lignes%20de%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-5.74%20million%20Lignes%20de%20code-blue?style=flat)
 
 **🐱 Mes données GitHub** 
 
-> 📦 678.2 kB Utilisés sur le stockage de GitHub 
+> 📦 678.3 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 545 Contributions en 2026
+> 🏆 552 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -37,21 +37,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  2467 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
-🌆 Journée                2332 commits        █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌃 Soirée                 1355 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-🌙 Nuit                   299 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+🌞 Matin                  2180 commits        ██████████░░░░░░░░░░░░░░░   38.56 % 
+🌆 Journée                1962 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
+🌃 Soirée                 1312 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌙 Nuit                   199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
-📅 **Je suis le plus productif le Mercredi** 
+📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Mardi                    1488 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Mercredi                 1523 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Jeudi                    806 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Vendredi                 918 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Samedi                   428 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Dimanche                 270 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Lundi                    933 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Mardi                    1328 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Mercredi                 1253 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Jeudi                    692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Vendredi                 808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Samedi                   373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Dimanche                 266 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 
 
@@ -61,22 +61,44 @@ Dimanche                 270 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+Blade Template           1 hr 2 mins         ██████████████████░░░░░░░   70.99 % 
+PHP                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+Claude Code              1 hr 21 mins        ███████████████████████░░   92.20 % 
+VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+citesco                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 28 mins (99.62%)
+
+✍️ 850 lines written by AI, 2 lines written by hand (99.77% AI-written)
+
+🔤 563,993 Input Tokens, 161,528 Output Tokens
+
+💵 $6.94 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 19 AI Prompts
+
+Sonnet                   887 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 514 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 **Je code principalement en JavaScript** 
@@ -92,7 +114,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:26:08 UTC
+ Last Updated on 31/08/2026 23:01:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
