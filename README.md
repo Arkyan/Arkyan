@@ -14,9 +14,9 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -24,7 +24,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 671.7 kB Utilisés sur le stockage de GitHub 
+> 📦 672.6 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 564 Contributions en 2026
  > 
@@ -61,50 +61,50 @@ Dimanche                 264 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Blade Template           2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Markdown                 2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-PHP                      1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Markdown                 3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Blade Template           2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+PHP                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Bash                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Vue                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔥 Éditeurs de code: 
-Claude Code              9 hrs 5 mins        █████████████████████░░░░   83.55 % 
-VS Code                  1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              11 hrs 34 mins      ████████████████████░░░░░   81.04 % 
+VS Code                  2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projets: 
-Agenda                   5 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.79 % 
-citesco                  2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-bot                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-PortfolioV2              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Portfolio                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Agenda                   5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
+citesco                  2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+PortfolioV2              2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Portfolio                1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+bot                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Système d'exploitation: 
-Linux                    10 hrs 9 mins       ███████████████████████░░   93.31 % 
-Windows                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Linux                    13 hrs 33 mins      ████████████████████████░   94.90 % 
+Windows                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 58 mins (91.57%)
+⏱ AI Coding Time: 13 hrs (91.11%)
 
-✍️ 12,882 lines written by AI, 200 lines written by hand (98.47% AI-written)
+✍️ 13,235 lines written by AI, 205 lines written by hand (98.47% AI-written)
 
-🔤 2,759,696 Input Tokens, 1,193,017 Output Tokens
+🔤 2,972,671 Input Tokens, 1,299,387 Output Tokens
 
-💵 $98.11 Estimated AI Cost This Week
+💵 $103.71 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 103 AI Prompts
+🧠 16 AI Sessions, 144 AI Prompts
 
-Sonnet                   14,506 lines        █████████████████████████   100.00 % 
+Sonnet                   14,908 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.47% of written lines came from AI
-📝 Concise Prompter — average 256 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 213 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 2.3% of changed lines were hand-edited
 ```
 
@@ -121,7 +121,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:38:28 UTC
+ Last Updated on 06/09/2026 20:43:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
