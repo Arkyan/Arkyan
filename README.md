@@ -14,13 +14,13 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-3.02%20million%20Lignes%20de%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-3.10%20million%20Lignes%20de%20code-blue?style=flat)
 
 **🐱 Mes données GitHub** 
 
@@ -37,21 +37,21 @@
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  2168 commits        ██████████░░░░░░░░░░░░░░░   38.65 % 
-🌆 Journée                1959 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
-🌃 Soirée                 1284 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-🌙 Nuit                   199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+🌞 Matin                  2263 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
+🌆 Journée                2010 commits        █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌃 Soirée                 1306 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+🌙 Nuit                   201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    933 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Mardi                    1316 commits        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Mercredi                 1233 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Jeudi                    681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Vendredi                 809 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Samedi                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Dimanche                 264 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Lundi                    970 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Mardi                    1357 commits        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Mercredi                 1274 commits        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+Jeudi                    694 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Vendredi                 829 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Samedi                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Dimanche                 271 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
@@ -61,51 +61,51 @@ Dimanche                 264 commits         █░░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Markdown                 4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-PHP                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Bash                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Blade Template           1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Vue                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Markdown                 5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Blade Template           2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+PHP                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Bash                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Vue                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Éditeurs de code: 
-Claude Code              12 hrs 44 mins      ████████████████████░░░░░   79.94 % 
-VS Code                  3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              13 hrs 38 mins      ███████████████████░░░░░░   74.76 % 
+VS Code                  4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projets: 
-Agenda                   7 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.36 % 
-PortfolioV2              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-citesco                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Portfolio                1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-bot                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Agenda                   7 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.12 % 
+citesco                  3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+PortfolioV2              3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Portfolio                1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+bot                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Système d'exploitation: 
-Linux                    15 hrs 12 mins      ████████████████████████░   95.43 % 
-Windows                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Linux                    17 hrs              ███████████████████████░░   93.28 % 
+Windows                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 20 mins (90.06%)
+⏱ AI Coding Time: 15 hrs 17 mins (83.88%)
 
-✍️ 14,275 lines written by AI, 218 lines written by hand (98.5% AI-written)
+✍️ 14,836 lines written by AI, 229 lines written by hand (98.48% AI-written)
 
-🔤 2,884,188 Input Tokens, 1,392,460 Output Tokens
+🔤 3,068,237 Input Tokens, 1,500,855 Output Tokens
 
-💵 $119.84 Estimated AI Cost This Week
+💵 $125.66 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 155 AI Prompts
+🧠 20 AI Sessions, 178 AI Prompts
 
-Sonnet                   15,973 lines        █████████████████████████   100.00 % 
+Sonnet                   16,542 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.5% of written lines came from AI
-📝 Concise Prompter — average 198 characters per prompt
+🤖 AI-Driven — 98.48% of written lines came from AI
+📝 Concise Prompter — average 321 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.55% of changed lines were hand-edited
+🚀 High AI Trust — 2.64% of changed lines were hand-edited
 ```
 
 **Je code principalement en JavaScript** 
@@ -121,7 +121,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:44:34 UTC
+ Last Updated on 08/09/2026 21:22:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
