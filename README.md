@@ -64,5 +64,5 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arkyan&theme=tokyonight&hide_border=true&locale=fr" />
+  <img src="https://githubcard.com/Arkyan.svg" />
 </p>
