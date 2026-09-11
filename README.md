@@ -16,8 +16,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2056%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-3.11%20million%20Lignes%20de%20code-blue?style=flat)
@@ -82,30 +80,6 @@ Portfolio                1 hr 18 mins        ██░░░░░░░░░�
 💻 Système d'exploitation: 
 Linux                    18 hrs 17 mins      ████████████████████████░   97.15 % 
 Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 56 mins (84.63%)
-
-✍️ 10,678 lines written by AI, 134 lines written by hand (98.76% AI-written)
-
-🔤 2,720,362 Input Tokens, 1,361,417 Output Tokens
-
-💵 $87.43 Estimated AI Cost This Week
-
-🧠 23 AI Sessions, 178 AI Prompts
-
-Sonnet                   11,026 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.76% of written lines came from AI
-📝 Concise Prompter — average 304 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.89% of changed lines were hand-edited
 ```
 
 **Je code principalement en PHP** 
